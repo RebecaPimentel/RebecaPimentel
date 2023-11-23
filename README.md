@@ -1,5 +1,10 @@
 # Be very welcome! 
 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/rebecapimentel/master/name.svg" alt="Marton Lederer" />
+</h1>
+
+
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,figma,bootstrap,eclipse,replit,vscode)](https://skillicons.dev) 
 
 <div  align="center" style="margin-bottom:100px padding:16px">
