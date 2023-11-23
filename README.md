@@ -1,11 +1,12 @@
 # Be very welcome! 
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/rebecapimentel/master/name.svg" alt="Marton Lederer" />
-</h1>
+
 
 
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,figma,bootstrap,eclipse,replit,vscode)](https://skillicons.dev) 
+
+ ![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=rusty-sj&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusty-sj&hide=TeX&layout=compact)
 
 <div  align="center" style="margin-bottom:100px padding:16px">
 <img width=55% align="center"   src="https://github-readme-stats.vercel.app/api?username=RebecaPimentel&hide=contribs,prs" />
