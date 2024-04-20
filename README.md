@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
 
 <br>
+
  <h1 align="center" > Estatisticas </h1>
 
 <br></br>
@@ -9,7 +10,7 @@
 
 <div align="center">  
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RebecaPimentel&show_icons=true&count_private=true&hide_border=true&title_color=006aff&icon_color=006aff&text_color=c9d1d9&bg_color=000018" alt="RebecaPimentel github stats" /> 
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaPimentel&layout=compact&hide_border=true&title_color=006aff&text_color=006aff&bg_color=000018" />
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaPimentel&layout=compact&hide_border=true&title_color=006aff&text_color=006aff&bg_color=000018" />
 </div>
 
 <br><br>
