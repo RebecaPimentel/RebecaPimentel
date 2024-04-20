@@ -35,4 +35,4 @@
 
 <h4>Ferramentas :</h4> 
  
-[![My Skills](https://skillicons.dev/icons?i=figma,eclipse,ps,replit,vscode,github,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,eclipse,replit,vscode,github)](https://skillicons.dev)
