@@ -18,3 +18,21 @@
 
 
 <br><br>
+
+ <h1><center>Minhas Habilidades:</center></h1>
+
+<h4>Back-End :</h4> 
+ 
+[![My Skills](https://skillicons.dev/icons?i=java,nodejs)](https://skillicons.dev)
+
+<h4>Front-End :</h4> 
+ 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+<h4>Banco de Dados :</h4> 
+ 
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+<h4>Ferramentas :</h4> 
+ 
+[![My Skills](https://skillicons.dev/icons?i=figma,eclipse,ps,replit,vscode,github,arduino)](https://skillicons.dev)
