@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
+
 <br>
  <h1 align="center" > Estatisticas </h1>
 
@@ -36,6 +38,13 @@
 <h4>Ferramentas :</h4> 
  
 [![My Skills](https://skillicons.dev/icons?i=figma,eclipse,replit,vscode,github,bootstrap)](https://skillicons.dev)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
+
+
+
+
+
 
 
 
