@@ -12,11 +12,6 @@
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaPimentel&layout=compact&hide_border=true&title_color=006aff&text_color=006aff&bg_color=000018" />
 </div>
 
-<div  align="center" style="margin-bottom:50px">
- <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RebecaPimentel&theme=transparent&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&type=png](https://git.io/streak-stats)" />
-  
-</div>
-
 <br><br>
 
  <h1 align="center" >Minhas Habilidades</h1>
