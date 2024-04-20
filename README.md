@@ -3,8 +3,8 @@
 
 
  <div align="center">  
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RebecaPimentel&show_icons=true&count_private=true&hide_border=true&title_color=006aff&icon_color=006aff&text_color=c9d1d9&bg_color=0d1117" alt="RebecaPimentel github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaPimentel&layout=compact&hide_border=true&title_color=006aff&text_color=006aff&bg_color=0d1117" />
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RebecaPimentel&show_icons=true&count_private=true&hide_border=true&title_color=006aff&icon_color=006aff&text_color=c9d1d9&bg_color=fff" alt="RebecaPimentel github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaPimentel&layout=compact&hide_border=true&title_color=006aff&text_color=006aff&bg_color=fff" />
 </div>
 
 <br></br>
@@ -35,4 +35,4 @@
 
 <h4>Ferramentas :</h4> 
  
-[![My Skills](https://skillicons.dev/icons?i=figma,eclipse,replit,vscode,github,canva)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,eclipse,replit,vscode,github)](https://skillicons.dev)
