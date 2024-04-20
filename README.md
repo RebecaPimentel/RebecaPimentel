@@ -8,7 +8,7 @@
 </div>
 
 <br></br>
-![RebecaPimentel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=RebecaPimentel&custom_title=RebecaPimentel%20GitHub%20Activity%20Graph&bg_color=0D1118&color=006afg&line=006aff&point=000aff&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![RebecaPimentel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=RebecaPimentel&custom_title=RebecaPimentel%20GitHub%20Activity%20Graph&bg_color=0D1118&color=006aff&line=006aff&point=121212&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <div  align="center" style="margin-bottom:50px">
