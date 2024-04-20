@@ -20,7 +20,8 @@
 
  <h1 align="center" >Minhas Habilidades</h1>
 
-<h4>Back-End :</h4> 
+ <div align="center">  
+ <h4>Back-End :</h4> 
  
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs)](https://skillicons.dev)
 
@@ -35,3 +36,7 @@
 <h4>Ferramentas :</h4> 
  
 [![My Skills](https://skillicons.dev/icons?i=figma,eclipse,replit,vscode,github,bootstrap)](https://skillicons.dev)
+
+</div>
+
+
