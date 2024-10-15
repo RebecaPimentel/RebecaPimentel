@@ -2,15 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Rebeca+Pimentel;I'm+16+years+old;I'm+from+Brazil!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
- <h1 align="center" > Estatisticas </h1>
-<br></br>
-![RebecaPimentel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=RebecaPimentel&custom_title=RebecaPimentel%20GitHub%20Activity%20Graph&bg_color=000018&color=006aff&line=006aff&point=4169E1&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
+<h3 align="center">Sou estudante de Desenvolvimento de Sistemas da ETEC Cidade Tiradentes</h3>
 
+- 📫 como me contactar **pimentelrebeca42@gmail.com**
+  
+<h3 align="center">Languages and Tools:</h3>
 
- <h1 align="center" >Minhas Habilidades</h1>
-
- 
  <h4>Back-End :</h4> 
  
 [![My Skills](https://skillicons.dev/icons?i=java,nodejs)](https://skillicons.dev)
@@ -19,11 +16,11 @@
  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-<h4>Banco de Dados :</h4> 
+<h4>Database :</h4> 
  
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-<h4>Ferramentas :</h4> 
+<h4>Tools :</h4> 
  
 [![My Skills](https://skillicons.dev/icons?i=figma,eclipse,replit,vscode,github,bootstrap)](https://skillicons.dev)
 
