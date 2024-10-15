@@ -1,11 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Rebeca+Pimentel;I'm+16+years+old;I'm+from+Brazil!;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+<br><br>
 <h3 align="center">Sou estudante de Desenvolvimento de Sistemas da ETEC Cidade Tiradentes</h3>
-
+<br><br>
 - 📫 como me contactar **pimentelrebeca42@gmail.com**
-  
+  <br><br>
+
+  <div align="center">  
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RebecaPimentel&show_icons=true&count_private=true&hide_border=true&title_color=006aff&icon_color=006aff&text_color=c9d1d9&bg_color=000018" alt="RebecaPimentel github stats" /> 
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaPimentel&layout=compact&hide_border=true&title_color=006aff&text_color=006aff&bg_color=000018" />
+</div>
+
+
 <h3 align="center">Languages and Tools:</h3>
 
  <h4>Back-End :</h4> 
@@ -26,10 +33,7 @@
 
 <br><br>
 
-<div align="center">  
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RebecaPimentel&show_icons=true&count_private=true&hide_border=true&title_color=006aff&icon_color=006aff&text_color=c9d1d9&bg_color=000018" alt="RebecaPimentel github stats" /> 
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaPimentel&layout=compact&hide_border=true&title_color=006aff&text_color=006aff&bg_color=000018" />
-</div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
