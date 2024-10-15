@@ -3,8 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Rebeca+Pimentel;I'm+16+years+old;I'm+from+Brazil!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-
+<br></br>
+![RebecaPimentel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=RebecaPimentel&custom_title=RebecaPimentel%20GitHub%20Activity%20Graph&bg_color=000018&color=006aff&line=006aff&point=4169E1&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
+
+
 
  <h1 align="center" >Minhas Habilidades</h1>
 
@@ -25,7 +28,7 @@
  
 [![My Skills](https://skillicons.dev/icons?i=figma,eclipse,replit,vscode,github,bootstrap)](https://skillicons.dev)
 
-<br>
+<br><br>
 
 <div align="center">  
  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RebecaPimentel&show_icons=true&count_private=true&hide_border=true&title_color=006aff&icon_color=006aff&text_color=c9d1d9&bg_color=000018" alt="RebecaPimentel github stats" /> 
@@ -34,9 +37,7 @@
 
  <h1 align="center" > Estatisticas </h1>
 
-<br></br>
-![RebecaPimentel's Graph](https://github-readme-activity-graph.vercel.app/graph?username=RebecaPimentel&custom_title=RebecaPimentel%20GitHub%20Activity%20Graph&bg_color=000018&color=006aff&line=006aff&point=4169E1&area_color=FFFFFF&title_color=FFFFFF&area=true)
-<br><br>
+
 
 
 
