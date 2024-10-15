@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Rebeca+Pimentel;I'm+16+years+old;I'm+from+Brazil!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RebecaPimentel&bg_color=0d1117&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RebecaPimentel&bg_color=000080&color=00bfbf&line=00bfbf&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h3 align="center">Sou estudante de Desenvolvimento de Sistemas da ETEC Cidade Tiradentes</h3>
