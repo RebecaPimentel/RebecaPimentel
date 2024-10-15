@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Rebeca+Pimentel;I'm+16+years+old;I'm+from+Brazil!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br><br>
 <h3 align="center">Sou estudante de Desenvolvimento de Sistemas da ETEC Cidade Tiradentes</h3>
-<br><br>
+
 - 📫 como me contactar **pimentelrebeca42@gmail.com**
   <br><br>
 
